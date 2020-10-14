@@ -1,3 +1,5 @@
+> ⚠️ Warning: This repo is not actively maintained at this time.
+
 # Vue Lambda Starter
 
 This project is based on [Vue CLI's](https://github.com/vuejs/vue-cli) starter template.
